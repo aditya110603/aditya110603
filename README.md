@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya110603" alt="aditya110603" /></a> </p>
 
-- 🔭 I’m currently working on [Meddico](https://github.com/Kushgupta16/Meddico)
+- 🔭 I’m currently working on [Reshuffle](https://github.com/aditya110603/Reshuffle)
 
 - 🌱 I’m currently learning **Flutter , AI & ML**
 
