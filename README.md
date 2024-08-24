@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Majumdar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya110603" alt="aditya110603" /></a> </p>
 
