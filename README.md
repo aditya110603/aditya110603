@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya110603" alt="aditya110603" /></a> </p>
 
-- 🔭 I’m currently working on [Minor Project](https://github.com/aditya110603/Minor-Project)
+- 🔭 I’m currently working on [Vitamin Deficiency Detection Using Image Analysis](https://github.com/aditya110603/Vitamin-Deficiency-Detection-Using-Image-Analysis)
 
 - 🌱 I’m currently learning **AI & ML**
 
